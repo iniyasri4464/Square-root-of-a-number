@@ -16,6 +16,8 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
+##Developed by:Iniyasri.s
+##Registered number:212223230081
 def newton_method(number,iterations=100):
     for i in range(iterations):
         number=0.5*(number+inp/number)
@@ -25,9 +27,6 @@ print("Square root of the number:",newton_method(inp))
 ```
 
 ## Output:
-![image](https://github.com/iniyasri4464/Square-root-of-a-number/assets/152419072/51e9c4a2-7233-456c-8d6c-d0565145c89a)
-
-
-
+![alt text](<WhatsApp Image 2024-04-09 at 5.54.04 PM (1).jpeg>)
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
